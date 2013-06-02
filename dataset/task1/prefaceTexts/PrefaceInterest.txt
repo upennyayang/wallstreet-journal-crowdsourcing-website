@@ -1,0 +1,7 @@
+LANGUAGE: The author has a creative style of writing
+
+Give a rating for the following texts depending on how much you like the words and phrasing in the writing. 
+
+For this aspect, score texts based on how much you like the writing. Do NOT focus on whether you like the topic of the article or not. Specifically, judge how much you like the words and phrases used by the author. You need not have a specific reason for liking/disliking a phrase. You may like certain words depending on how they sound, their meaning, or for some other reason. Similarly for phrases. You can think about your judgement in the following way: decide what is the main content of the text and the way it would look if it had been written in a plain manner. Now considering how this author has written it, do you think his style of writing is attractive to you?
+
+

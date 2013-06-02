@@ -1,0 +1,5 @@
+RESEARCH: The text describes research done on a topic. 
+
+Rate the following texts to indicate the degree to which research content is present. 
+
+Research content can either provide background information about the research area, the aims and goals of the research, comparison with other research studies, experimental details and results of the research or the scientists involved in the research. Try to make the distinction between science writing and specific research description. Since these articles all come from science journalism, they have science-related content in them. We are particularly interested in descriptions of the process of the research-the how, what, why, who, and where questions of research.

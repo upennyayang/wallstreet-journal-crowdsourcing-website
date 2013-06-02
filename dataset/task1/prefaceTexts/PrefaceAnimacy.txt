@@ -1,0 +1,5 @@
+PEOPLE-ORIENTED: People are central to the text
+
+The following texts have different degrees of people-oriented nature. Rate them to indicate the extent.  
+
+People-oriented texts talk about a person or group of people. The topic/events/discussion revolves around them. For example, a biography is very much people-oriented whereas a chapter from a physics textbook would discuss abstract concepts and belong to the opposite category. 

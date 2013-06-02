@@ -1,0 +1,5 @@
+NEGATIVE SENTIMENT: The text is filled with negative sentiment and emotions
+
+The following texts have different degrees of negative sentiment and emotions. Rate them to indicate the degree.  
+
+Sentiment refers to positive or negative opinion towards something. Emotion relates to feelings--happiness, sadness, anger, embarrassment etc. For this task, indicate the extent to which the text is filled with negative sentiment and negative emotions. For an example, a heated debate arguing for gun control could have a lot of negative sentiment. On the other hand, an article about vacations and holidays could have a lot of positive sentiment and will receive a low rating for negative sentiment. Also, when an article has no sentiment/emotions (for example, a chapter from a high school science textbook is likely to have little sentiment and emotion), give it a low rating for negative sentiment. 

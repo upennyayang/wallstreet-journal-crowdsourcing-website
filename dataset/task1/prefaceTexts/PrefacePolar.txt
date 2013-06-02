@@ -1,0 +1,5 @@
+SENTIMENT: The text is charged with sentiment and emotions
+
+The following texts have different degrees of sentiment. Provide ratings to indicate the degree of sentiment in the text. 
+
+Sentiment refers to positive or negative opinion towards something. Emotion relates to feelings--happiness, sadness, anger, embarrassment etc. For this task, indicate the extent to which the text is filled with sentiment and emotions. For an example, a heated debate about a social topic will have a lot of sentiment and emotion. On the other hand, a chapter from a high school science textbook is likely to have little sentiment and emotion. Give an overall rating depending on both aspects. 
