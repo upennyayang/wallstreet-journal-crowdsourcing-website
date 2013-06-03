@@ -20,4 +20,6 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 
 ## _Snapshots_
 ![login](snapshots/login.png)
+![login](snapshots/aspect.png)
+![login](snapshots/pairwise.png)
 
