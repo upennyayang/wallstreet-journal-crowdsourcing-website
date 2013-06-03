@@ -19,7 +19,9 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 </table>
 
 ## _Snapshots_
-![login](snapshots/login.png)
+
 ![login](snapshots/aspect.png)
 ![login](snapshots/pairwise.png)
+
+Other snapshots:
 
