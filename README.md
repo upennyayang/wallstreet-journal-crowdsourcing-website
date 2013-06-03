@@ -13,8 +13,9 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 * THe annotation work was done in December 2013, so please feel free to try : )
 <table>
 <tr><th>Key</th><th>Password</th>Function</tr>
-<tr><td>101</td><td>nlp</td><td>Aspect ratings</td></tr>
-<tr><td>201</td><td>nlp</td><td>Pairwise ratings</td></tr>
-<tr><td>Yayang</td>Yayang</td><td>Manager page</td></tr>
+<tr><td>101</td><td>nlp</td><td>Aspect rating</td></tr>
+<tr><td>201</td><td>nlp</td><td>Pairwise rating</td></tr>
+<tr><td>Yayang</td><td>nlp</td><td>Yayang</td></tr>
 </table>
 
+> Gdfs
