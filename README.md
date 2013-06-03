@@ -20,8 +20,9 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 
 ## _Snapshots_
 
+### _Main snapshots_
 ![login](snapshots/aspect.png)
 ![login](snapshots/pairwise.png)
 
-Other snapshots:
+### _Additional snapshots_
 
