@@ -34,34 +34,27 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 3. Manager page: The manager page was basically basic database interaction - researchers could see the annotation results, clear task, and re-annotate.
 
 ![manager](snapshots/manager.png)
+
 ### _Additional snapshots_
-1. Login:
+4. Login:
 
 ![first](snapshots/login.png)
 
-2. Answer questions: Answer question about perceptions of headlines:
+5. Answer question about perceptions of headlines:
 
 ![first](snapshots/first.png)
 
-3. Highlighting: 
-
-Highlight the degree of sentiments.
+6. Highlight the degree of sentiments:
 
 ![second](snapshots/second.png)
 
-4 Instruction for sentiment analysis:
+7 Instruction for sentiment analysis:
 
 ![instruction](snapshots/instruction.png)
 
-5. Thank you page:
+8. Thank you page:
 
 ![thanks](snapshots/thanks.png)
-
-
-
-![thanks](snapshots/thanks.png)
-
-
 
 
 
