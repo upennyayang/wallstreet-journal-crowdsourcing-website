@@ -7,7 +7,7 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 * Task: An annotation tool for WSJ
 * Author: Yayang Tian
 * Advisor: Dr. Annie Louis, Prof. Ani Nenkova
-* Language: PHP, MySQL, HTML, CSS
+* Language: PHP, MySQL, HTML, CSS (I implemented the whole website from scratch)
 * Corpus: Wall Street Journals
 * URL:  [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 
@@ -26,8 +26,18 @@ Please visit to [http://penn-annotation.co.nf](http://penn-annotation.co.nf)
 1. Aspect ratings: The first task was to give overall impression for sentiment level in terms of aspect "Animacy, Interest, Narrative, Negative Emotions, Polarity, Research, or Visual". Different annotators were assigned to different aspects.
 ![login](snapshots/aspect.png)
 
-2. Pairwise ratings: The second task was to compare two paragrah 
+2. Pairwise ratings: The second task was to compare two paragrah side by side and specify degree of similarity and interest.
 ![login](snapshots/pairwise.png)
 
+3. Manager page: The manager page was basically basic database interaction - researchers could see the annotation results, clear task, and re-annotate.
+
 ### _Additional snapshots_
+1. Login:
+![first](snapshots/login.png)
+
+2. Answer questions: Answer question about perceptions of headlines:
+
+
+
+2. 
 
